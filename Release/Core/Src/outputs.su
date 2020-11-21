@@ -1,0 +1,9 @@
+outputs.c:10:6:setMotorDirA.part.0	8	static
+outputs.c:23:6:setMotorDirB.part.1	8	static
+outputs.c:10:6:setMotorDirA	8	static
+outputs.c:23:6:setMotorDirB	8	static
+outputs.c:37:6:setMotorsDirection	8	static
+outputs.c:42:6:setMotorSpeedA	8	static
+outputs.c:46:6:setMotorSpeedB	8	static
+outputs.c:50:6:setMotorsSpeed	8	static
+outputs.c:55:6:setMotors	16	static

@@ -1,0 +1,3 @@
+mems.c:58:7:read_heading	64	static
+mems.c:86:8:read_accel	56	static
+mems.c:97:8:read_gyro	64	static

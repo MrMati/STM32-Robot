@@ -1,0 +1,3 @@
+utils.c:8:5:range	0	static
+utils.c:18:5:keepInRange	0	static
+utils.c:28:5:calc_diff	0	static

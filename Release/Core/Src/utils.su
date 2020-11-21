@@ -1,0 +1,5 @@
+utils.c:8:5:range	0	static
+utils.c:18:5:keepInRange	0	static
+utils.c:28:5:calc_diff	0	static
+utils.c:47:6:remove_char_from_string	24	static
+utils.c:62:5:prefix	16	static
